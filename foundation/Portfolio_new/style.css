@@ -1,0 +1,37 @@
+body {
+font-family:Georgia, 'Times New Roman', Times, serif;
+background-color: #f4f4f4;
+text-align: center;
+margin:0;
+padding:0;
+}
+
+header {
+background-color: #333;
+color: white;
+text-align: center;
+padding: 10px;
+}
+
+main {
+padding: 20px;
+}
+img { max-width: 100%; height: auto; }
+
+footer {
+text-align: center;
+background-color: #333;
+
+color: white;
+padding: 10px;
+}
+body.dark-theme {
+background-color: #333;
+color: white;
+}
+header.dark-theme {
+background-color: #444;
+}
+footer.dark-theme {
+background-color: #444;
+}
